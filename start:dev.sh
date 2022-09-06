@@ -1,0 +1,1 @@
+ENV=development air run main.go
